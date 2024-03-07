@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Evgeny, Java Developer ☕</h2>
+### Hi there! I'm Evgeny, Java Developer ☕
 
 <br/>
 
@@ -33,4 +33,4 @@ Cтек: Java, Spring Boot, Spring Data JPA, Spring MVC, Hibernate, Docker, Post
 Cтек: Java, Spring Boot, Hibernate, RESTful API, H2DB<br/>
 [GitHub](https://github.com/EugeneP87/movie-mate)
 
-![Evgeny's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EugeneP87&theme=dark)
+[![EugeneP87's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=EugeneP87&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
